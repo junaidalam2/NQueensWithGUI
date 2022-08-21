@@ -6,9 +6,7 @@ An application that solves the N-Queens problem with a GUI and on-screen updates
 ## Video Demonstration
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="https://github.com/junaidalam2/NQueensWithGUI/blob/main/queen.png">
-    <source src="https://github.com/junaidalam2/NQueensWithGUI/blob/main/recording-2022-08-21-13-42-18.webm" type="video/webm">
-  </video>
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
