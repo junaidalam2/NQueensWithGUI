@@ -5,11 +5,8 @@ An application that solves the N-Queens problem with a GUI and on-screen updates
 
 ## Video Demonstration
 
-![Link to Demo](https://github.com/junaidalam2/NQueensWithGUI/blob/main/queen.png?raw=true)
-
 <a href="https://www.youtube.com/watch?v=1O6CjGNIUN0">
-         <img alt="Demo" src="https://github.com/junaidalam2/NQueensWithGUI/blob/main/queen.png"
-         width=150" height="70">
+         <img alt="Demo" src="https://github.com/junaidalam2/NQueensWithGUI/blob/main/queen.png">
 </a>
 
 
