@@ -1,12 +1,12 @@
 
-# N-Queens Application using Backtracking with a GUI & Animation
+# N-Queens Solver using Backtracking with a GUI & Animation
 An application that solves the N-Queens problem with a GUI and on-screen updates in real-time.
 
 
 ## Video Demonstration
 
-<a href="https://www.youtube.com/watch?v=1O6CjGNIUN0">
-         <img alt="Demo" src="https://github.com/junaidalam2/NQueensWithGUI/blob/main/queen.png">
+<a href="https://www.youtube.com/watch?v=1O6CjGNIUN0" target="_blank">
+         <img src="https://github.com/junaidalam2/NQueensWithGUI/blob/main/queen.png" alt="Demo" style="border: #000000 6px outset;" width=15% height=15% >
 </a>
 
 
